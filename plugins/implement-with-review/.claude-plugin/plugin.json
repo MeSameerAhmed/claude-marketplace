@@ -1,0 +1,10 @@
+{
+  "name": "implement-with-review",
+  "version": "1.0.0",
+  "description": "End-to-end feature workflow: spec → plan → implement → PR → automated review loop. Adds the /implement-with-review slash command plus the opus-architect and pr-reviewer subagents.",
+  "author": {
+    "name": "Sameer Ahmed",
+    "url": "https://github.com/MeSameerAhmed"
+  },
+  "keywords": ["workflow", "pr-review", "implementation", "automation"]
+}
